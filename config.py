@@ -1,5 +1,5 @@
-username = 'vignesh.g@2wglobal.com'
-password = 'Spring2018'
+username = 'mail_id'
+password = 'password_here'
 
 imap_server = "imap-mail.outlook.com"
 imap_port = 993
